@@ -17,6 +17,10 @@
 # Name your file - marketinglistFINAL.csv
 
 
+# Note: you can use the comments below to guide you through the logic of the code. You are not
+# required to follow it. ALSO NOT ALL STEPS HAVE BEEN COMMENTED. You may have additional steps.
+
+
 import csv
 
 # open the vendorlist file
